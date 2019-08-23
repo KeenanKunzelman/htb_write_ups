@@ -12,4 +12,4 @@
 
 ## Some Things I Learned
 
-> Although this box was very easy and I pretty much took the metasploit script kiddie route I definetely had a lot of fun doing it. I didn't really learn anything new in terms of offensive security but I did learn a lot about the distccd service. I really think this is a brilliant idea if implemented correctly
+> Although this box was very easy and I pretty much took the metasploit script kiddie route I definetely had a lot of fun doing it. I didn't really learn anything new in terms of offensive security but I did learn a lot about the distccd service. I really think it is a brilliant idea if implemented correctly
